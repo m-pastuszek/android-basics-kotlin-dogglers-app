@@ -11,16 +11,8 @@ Introduction
 
 Dogglers app project based on the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
-Final version
+Final version screenshots
 --------------
-Main Activity:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true)
 
-Horizontal Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/HorizontalList.png?raw=true)
+<img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/HorizontalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/VerticalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true"></img>
 
-Vertical Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/VerticalList.png?raw=true)
-
-Grid Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true)
