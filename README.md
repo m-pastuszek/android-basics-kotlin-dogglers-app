@@ -14,5 +14,5 @@ Dogglers app project based on the [final pathway](https://developer.android.com/
 Final version screenshots
 --------------
 
-<img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/HorizontalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/VerticalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true"></img>
+<img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/MainActivity.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/HorizontalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/VerticalList.png?raw=true" width="23%"></img> <img src="https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true" width="23%"></img>
 
