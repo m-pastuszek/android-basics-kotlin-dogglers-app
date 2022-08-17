@@ -14,13 +14,13 @@ Dogglers app project based on the [final pathway](https://developer.android.com/
 Final version
 --------------
 Main Activity:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/MainActivity.png?raw=true)
+![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true)
 
 Horizontal Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/HorizontalList.png?raw=true)
+![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/HorizontalList.png?raw=true)
 
 Vertical Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/VerticalList.png?raw=true)
+![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/VerticalList.png?raw=true)
 
 Grid Cards list:
-![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/GridList.png?raw=true)
+![alt text](https://github.com/m-pastuszek/android-basics-kotlin-dogglers-app/blob/main/final-screenshots/GridList.png?raw=true)
